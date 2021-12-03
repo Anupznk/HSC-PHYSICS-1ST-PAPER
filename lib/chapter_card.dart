@@ -61,7 +61,7 @@ class ChapterCard extends StatelessWidget {
           onTap: () {
             Navigator.pushNamed(context, '/${category[chapter.id]}');
 
-            // todo: set route
+
           },
         ),
       ),

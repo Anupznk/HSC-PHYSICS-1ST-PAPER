@@ -91,7 +91,7 @@ class _PracticeState extends State<Practice> {
                         builder: (context) => practiceProblemSolution()),
                   );
 
-                  // todo: add route
+
                 },
                 icon: Icon(
                   Icons.check_circle,
